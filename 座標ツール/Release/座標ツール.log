@@ -1,0 +1,22 @@
+﻿  bg.cpp
+  manager.cpp
+  polygon.cpp
+  renderer.cpp
+renderer.cpp(203): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(204): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(205): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(206): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(207): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(221): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(222): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(223): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(224): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+renderer.cpp(225): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  texture.cpp
+  コード生成しています。
+  26 of 114 functions (22.8%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  座標ツール.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\座標ツール\Release\座標ツール.exe
+  座標ツール.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\座標ツール\Release\座標ツール.pdb (Full PDB)
